@@ -14,7 +14,12 @@
       "openFiles": [
         "src/App.js"
       ]
-    }
+	},
+	"vscode": {
+		"extensions": [
+			"rodrigovallades.es7-react-js-snippets"
+		]
+	}
   },
   "portsAttributes": {
     "3000": {
